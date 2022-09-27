@@ -1,7 +1,5 @@
 # Contributing
 
-##
-
 ### Contributing to Frifty Apps
 
 Thank you for your interest in contributing to Frifty. Regardless of the size of the contribution you make, all contributions are welcome and are appreciated.
