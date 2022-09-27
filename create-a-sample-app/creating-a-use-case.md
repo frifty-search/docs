@@ -14,6 +14,7 @@ yarn usecase:create
 
 It gives you a prompt to name the use-case,
 
-Note:  If the use-case name contains two words, then separate it with \_ or \<space>\
-&#x20;
+<figure><img src="../.gitbook/assets/Screenshot from 2022-09-15 05-01-55.png" alt=""><figcaption></figcaption></figure>
+
+> Note:  If the use-case name contains two words, then separate it with \_ or \<space>
 

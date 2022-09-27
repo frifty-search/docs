@@ -25,6 +25,7 @@ Add the newly created use-case in renderApps.utils.tsx&#x20;
 
 ```tsx
 import React from "react";
+// Importing the newly created usecase 
 import { DumbCharades, AgeCalculator } from "../../usecases";
 import { Apps } from "../../utils/api.utils";
 import { AppName } from "../../utils/appName.utils";
@@ -33,9 +34,12 @@ export const renderApps = ({ appId, data }: Apps): React.ReactNode => {
   switch (appId) {
     case AppName.DUMBCHARADES:
       return <DumbCharades data={data} />;
+    // Adding a new case statement for the newly create usecase
     case AppName.AGECALCULATOR:
-      return <AgeCalculator data={data} />;
+      return <AgeCalculator />;
   }
 };
 
 ```
+
+> Note: If there is no dependent data coming from backend, you can remove the data props from the component
