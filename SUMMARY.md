@@ -16,7 +16,7 @@
 
 * [Getting Started](understanding-architecture/getting-started.md)
 * [Folder Structure](understanding-architecture/folder-structure.md)
-* [Checking Issue and Working PR](understanding-architecture/checking-issue-and-working-pr.md)
+* [Contributing](understanding-architecture/contributing.md)
 
 ## Create a Sample App
 
@@ -29,4 +29,4 @@
 
 ***
 
-* [Submission ](submission.md)
+* [Submission](submission.md)
