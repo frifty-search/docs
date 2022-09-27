@@ -1,5 +1,7 @@
 # Folder Structure
 
+<figure><img src="../.gitbook/assets/carbon.png" alt=""><figcaption><p>Folder Structure</p></figcaption></figure>
+
 ## ./src/index.ts
 
 index.js is the traditional and actual entry point for all node apps. Here in React it just has code of what to render and where to render.
