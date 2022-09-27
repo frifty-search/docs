@@ -16,6 +16,7 @@
 
 * [Getting Started](understanding-architecture/getting-started.md)
 * [Folder Structure](understanding-architecture/folder-structure.md)
+* [Checking Issue and Working PR](understanding-architecture/checking-issue-and-working-pr.md)
 
 ## Create a Sample App
 
@@ -23,5 +24,8 @@
 * [Updating in usescase/index.tsx](create-a-sample-app/updating-in-usescase-index.tsx.md)
 * [Updating the utils/appName.utils.tsx](create-a-sample-app/updating-the-utils-appname.utils.tsx.md)
 * [Updating in components/utils/renderApps.utils.tsx](create-a-sample-app/updating-in-components-utils-renderapps.utils.tsx.md)
-* [Create Usecase UI](create-a-sample-app/create-usecase-ui.md)
-* [Adding Logic to Usecase](create-a-sample-app/adding-logic-to-usecase.md)
+* [Building Usecase](create-a-sample-app/building-usecase.md)
+
+***
+
+* [Submission ](submission.md)
