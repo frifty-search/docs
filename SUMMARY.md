@@ -15,3 +15,4 @@
 ## Understanding Architecture
 
 * [Getting Started](understanding-architecture/getting-started.md)
+* [Folder Structure](understanding-architecture/folder-structure.md)
