@@ -25,6 +25,7 @@
 * [Updating the utils/appName.utils.tsx](create-a-sample-app/updating-the-utils-appname.utils.tsx.md)
 * [Updating in components/utils/renderApps.utils.tsx](create-a-sample-app/updating-in-components-utils-renderapps.utils.tsx.md)
 * [Building Usecase](create-a-sample-app/building-usecase.md)
+* [Testing Locally](create-a-sample-app/testing-locally.md)
 
 ***
 
