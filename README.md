@@ -16,7 +16,7 @@
 
 #### 3.2  [Folder Structure](understanding-architecture/folder-structure.md)
 
-#### 3.3  [Contributing](understanding-architecture/contributing.md)
+#### 3.3  [Contributing](understanding-architecture/checking-issue-and-working-pr.md)
 
 ## 4. Create a sample app
 
