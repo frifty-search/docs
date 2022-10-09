@@ -6,6 +6,6 @@ You can use Postman or Any other API Client to get data. We are using Postman to
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Postman API Request</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 As Dumb Charades is already built, we can build the Age Calculator.&#x20;

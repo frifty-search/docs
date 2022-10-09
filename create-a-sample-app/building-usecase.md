@@ -18,7 +18,7 @@ export default AgeCalculator;
 
 Let's think about the components to build.&#x20;
 
-<figure><img src="../.gitbook/assets/carbon-stack (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/carbon-stack.png" alt=""><figcaption></figcaption></figure>
 
 So Let's start building the UI !!!
 
