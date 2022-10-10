@@ -20,7 +20,7 @@
 
 ## 4. Create a sample app
 
-#### 4.1  [Checking Existing Uecases And What to Build](create-a-sample-app/checking-existing-uecases-and-what-to-build.md)
+#### 4.1  [Checking Existing Uecases And What to Build](create-a-sample-app/checking-existing-usecases-and-what-to-build.md)
 
 #### 4.2 [Creating a Use Case](create-a-sample-app/creating-a-use-case.md)
 

@@ -20,7 +20,7 @@
 
 ## Create a Sample App
 
-* [Checking Existing Uecases And What to Build](create-a-sample-app/checking-existing-uecases-and-what-to-build.md)
+* [Checking Existing Usecases And What to Build](create-a-sample-app/checking-existing-usecases-and-what-to-build.md)
 * [Creating a Use Case](create-a-sample-app/creating-a-use-case.md)
 * [Updating in usescase/index.tsx](create-a-sample-app/updating-in-usescase-index.tsx.md)
 * [Updating the utils/appName.utils.tsx](create-a-sample-app/updating-the-utils-appname.utils.tsx.md)
