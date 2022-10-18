@@ -1,11 +1,25 @@
 # Getting Started
 
+## Step 0: Fork the GitHub Repository
+
+Go to your favorite Browser, Go to this GitHub [Repository](https://github.com/frifty-search/search-apps) and Fork this  repository by clicking on the icon
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>GitHub Image</p></figcaption></figure>
+
+> Note: If you like the project, starred the repository
+
 ## Step 1: Clone the GitHub Repository
 
-Clone the following GitHub Repository
+Clone the your forked GitHub Repository
 
 ```bash
-git clone https://github.com/frifty-search/search-apps.git
+git clone https://github.com/:username:/search-apps.git
+```
+
+for eg:&#x20;
+
+```bash
+git clone https://github.com/StrangNoob/search-apps.git
 ```
 
 ## Step 2:  Install Dependencies
@@ -38,7 +52,7 @@ yarn usecase:install
 
 ## Step 4: Build Template Dependencies
 
-Build the template Dependencies using npmnpm run usecase:build
+Build the template Dependencies using npm,
 
 ```bash
 npm run usecase:build
@@ -48,4 +62,18 @@ if you are using the yarn package manager, use this command.
 
 ```bash
 yarn usecase:build
+```
+
+## Step 5: Creating a .env
+
+Copy the .env.example to .env,  use this command
+
+```bash
+cp .env.example .env
+```
+
+if you are a windows user, this command might not work. Use this  command
+
+```powershell
+copy .env.example .env
 ```
