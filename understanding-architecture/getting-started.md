@@ -4,7 +4,7 @@
 
 Go to your favorite Browser, Go to this GitHub [Repository](https://github.com/frifty-search/search-apps) and Fork this  repository by clicking on the icon
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>GitHub Image</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>GitHub Image</p></figcaption></figure>
 
 > Note: If you like the project, starred the repository
 

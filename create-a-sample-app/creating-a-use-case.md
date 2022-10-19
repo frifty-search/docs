@@ -12,9 +12,9 @@ if you are using yarn package manager
 yarn usecase:create
 ```
 
-It gives you a prompt to name the use-case,
+It gives you a prompt to fill the details of the use-case,
 
-<figure><img src="../.gitbook/assets/Screenshot from 2022-09-15 05-01-55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 > Note:  If the use-case name contains two words, then separate it with \_ or \<space>
 
